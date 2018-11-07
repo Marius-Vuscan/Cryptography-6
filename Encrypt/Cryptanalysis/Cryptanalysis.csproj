@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Analysis.cs" />
     <Compile Include="CezarAnalysis.cs" />
     <Compile Include="MonoalphabeticalAnalysis.cs" />
     <Compile Include="Program.cs" />
