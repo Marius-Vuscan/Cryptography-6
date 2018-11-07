@@ -1,0 +1,13 @@
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\bin\Debug\Playfair Cipher.exe.config
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\bin\Debug\Playfair Cipher.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\bin\Debug\Playfair Cipher.pdb
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\obj\Debug\Encryp.csproj.CoreCompileInputs.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\obj\Debug\Playfair Cipher.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Playfair Cipher\Playfair Cipher\obj\Debug\Playfair Cipher.pdb
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\obj\Debug\Encryp.csprojAssemblyReference.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\obj\Debug\Encryp.csproj.CoreCompileInputs.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\bin\Debug\Encrypt.exe.config
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\bin\Debug\Encrypt.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\bin\Debug\Encrypt.pdb
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\obj\Debug\Encrypt.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Playfair Cipher\obj\Debug\Encrypt.pdb

@@ -1,0 +1,7 @@
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\bin\Debug\Cryptanalysis.exe.config
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\obj\Debug\Cryptanalysis.csprojAssemblyReference.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CoreCompileInputs.cache
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+D:\IT\Facultate\Criptografie - An II, Sem I\Encrypt\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
